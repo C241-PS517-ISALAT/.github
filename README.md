@@ -1,5 +1,3 @@
-# .github
-Config files for my GitHub profile.
 # ISALAT - Instant Sign Language Translator App
 
 ## 🎨 Final Selected Themes
